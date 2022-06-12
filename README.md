@@ -4,8 +4,10 @@ Read [this accompanying article](https://hn.mrugesh.dev/how-to-get-ssh-public-ke
 
 Usage:
 
+Get a personal access token here: https://github.com/settings/tokens/new, and run the below commands:
+
 ```console
+GITHUB_PA_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxxxxxxxx
 npm install
 npm start
-
 ```
